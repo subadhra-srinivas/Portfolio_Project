@@ -4,8 +4,8 @@ Final Project from the Intro to HTML & CSS / Responsive Design / Responsive imag
 
 **Required Files:**
 
-index.html
-/css   :style3.css, bootstrapmin.css
+index.html <br />
+/css   :style3.css, bootstrapmin.css <br />
 /images: black_jack_small.png, movies_project_small.png
          portfolio.png, subadhra_logo.png,
          tic_tac_toe_small.png, work_1-1600_large_2x.png
