@@ -1,4 +1,4 @@
-# Portfolio_Project
+# Subadhra's Portfolio Project
 
 Final Project from the Intro to HTML & CSS / Responsive Design / Responsive images courses
 
