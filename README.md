@@ -9,7 +9,7 @@ index.html<br />
 /css   :style3.css, bootstrapmin.css<br />
 
 /images: black_jack_small.png, movies_project_small.png<br />
-         portfolio.png, subadhra_logo.png,
+         portfolio.png, subadhra_logo.png,<br />
          tic_tac_toe_small.png, work_1-1600_large_2x.png<br />
          work_1-400x400_small.png, work_1-600_medium.png<br />
          work_1-800_large_1x.png<br />
