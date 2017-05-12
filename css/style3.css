@@ -18,7 +18,7 @@ hr {
 
 .text-blue {
     color: #2d3c49;
-    font-weight: 200
+    font-weight: 200;
 }
 
 .text-thin {
@@ -31,12 +31,12 @@ hr {
 
 .title-href {
     font-size: 17px;
-    font-weight: 300
+    font-weight: 300;
 }
 
 .title-logo {
     margin-top: 20px;
-    border-radius: 50%
+    border-radius: 50%;
 }
 
 @media screen and (min-width: 900px) {
