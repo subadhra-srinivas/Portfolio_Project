@@ -1,6 +1,10 @@
 # Subadhra's Portfolio Project
 
-Final Project from the Intro to HTML & CSS / Responsive Design / Responsive images courses
+**About**
+This is a final project from the Intro to HTML & CSS / Responsive Design / Responsive images courses.
+We are provided with a design mockup as a PDF-file and we must replicate that design in HTML and CSS.
+We developed a responsive website that displays images, descriptions and links to each of the portfolio
+projects we completed throughout the Nanodegree program.
 
 **Required Files:**
 
@@ -34,7 +38,11 @@ Google Fonts have been included<br />
 
 Open the index.html in the browser to see my portfolio website
 
-**Live Website:**
+**Screenshots**
+
+
+![ScreenShot](https://raw.github.com/subadhra-srinivas/Portfolio_Project/images/portfolio.png)
+
 
 You can go to live portfolio website by clicking the below link <br />
 
