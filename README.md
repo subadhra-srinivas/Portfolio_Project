@@ -7,7 +7,7 @@ We are provided with a design mockup as a PDF-file and we must replicate that de
 We developed a responsive website that displays images, descriptions and links to each of the portfolio
 projects we completed throughout the Nanodegree program.
 
-**Required Files:**
+## Required Files:
 
 index.html<br />
 
@@ -24,7 +24,7 @@ index.html<br />
 gruntfile.js<br />
 package.json<br />
 
-**Utilized:**
+## Utilized:
 
 HTML5 and CSS3 Design Elements is used<br />
 Bootstrap Responsive Framework is used<br />
@@ -35,20 +35,22 @@ Grunt task with Image Magic is used to create responsive images of various sizes
 like 400*400px(small), 600px(medium), 800px(large), 1600px(x-large)<br />
 Google Fonts have been included<br />
 
-**Execute the program:**
+## Execute the program:
 
 Open the index.html in the browser to see my portfolio website
 
-**Screenshots:**
+## Screenshots:
 
 
 ![ScreenShot](https://github.com/subadhra-srinivas/Portfolio_Project/blob/master/images/portfolio.png)
 
 
-**Description of obstacles and solution:**
+## Description of obstacles and solution:
 
 I had problems installing Grunt for resizing images. I referred to Grunt tutorials on installation
 from web.
+
+## Link to Website:
 
 You can go to live portfolio website by clicking the below link <br />
 
