@@ -41,7 +41,7 @@ Open the index.html in the browser to see my portfolio website
 **Screenshots**
 
 
-![ScreenShot](https://raw.github.com/subadhra-srinivas/Portfolio_Project/images/portfolio.png)
+![ScreenShot](https://github.com/subadhra-srinivas/Portfolio_Project/blob/master/images/portfolio.png)
 
 
 You can go to live portfolio website by clicking the below link <br />
