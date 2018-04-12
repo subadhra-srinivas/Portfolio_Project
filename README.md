@@ -39,11 +39,16 @@ Google Fonts have been included<br />
 
 Open the index.html in the browser to see my portfolio website
 
-**Screenshots**
+**Screenshots:**
 
 
 ![ScreenShot](https://github.com/subadhra-srinivas/Portfolio_Project/blob/master/images/portfolio.png)
 
+
+**Description of obstacles and solution:**
+
+I had problems installing Grunt for resizing images. I referred to Grunt tutorials on installation
+from web.
 
 You can go to live portfolio website by clicking the below link <br />
 
