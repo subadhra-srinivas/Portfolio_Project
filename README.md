@@ -1,6 +1,6 @@
 # Subadhra's Portfolio Project
 
-##About:
+## About:
 
 This is a final project from the Intro to HTML & CSS / Responsive Design / Responsive images courses.
 We are provided with a design mockup as a PDF-file and we must replicate that design in HTML and CSS.
