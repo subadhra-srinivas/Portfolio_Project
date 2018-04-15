@@ -56,3 +56,7 @@ You can go to live portfolio website by clicking the below link <br />
 
 https://subadhra-srinivas.github.io/Portfolio_Project/
 
+
+## License:
+
+This project is licensed under the terms of the MIT license.
